@@ -742,7 +742,7 @@ footer {
     padding: 0 0 0 15px
 }
 
-.project-image {
+.project-image > img {
     width:300px;
     height:300px
      
